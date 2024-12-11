@@ -1,11 +1,11 @@
 [package]
-name = "rustdesk"
+name = "AsanDesk"
 version = "1.3.5"
-authors = ["rustdesk <info@rustdesk.com>"]
+authors = ["AsanDesk <info@AsanDesk.com>"]
 edition = "2021"
 build= "build.rs"
-description = "RustDesk Remote Desktop"
-default-run = "rustdesk"
+description = "AsanDesk Remote Desktop"
+default-run = "AsanDesk"
 rust-version = "1.75"
 
 [lib]
